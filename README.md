@@ -10,3 +10,5 @@ Installations:
 3. npm start
 
 web application will be available on localhost:3000
+
+![alt tag](http://efdreams.com/data_images/dreams/blackjack/blackjack-05.jpg)
