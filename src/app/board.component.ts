@@ -33,7 +33,7 @@ export class BoardComponent  {
   private local: boolean;
 
   constructor(private http: Http) {
-    this.local = false;
+    this.local = true;
     this.init();
   }
 
