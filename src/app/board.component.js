@@ -14,7 +14,7 @@ var http_1 = require("@angular/http");
 var BoardComponent = (function () {
     function BoardComponent(http) {
         this.http = http;
-        this.local = false;
+        this.local = true;
         this.init();
     }
     BoardComponent.prototype.drawCard = function () {
